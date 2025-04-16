@@ -9,7 +9,7 @@ User authentication with JWT role-based authorization verification system.
 Error handling best practices to ensure a seamless experience.
 CRUD operations for hotels, rooms, bookings, and users.
 Installation
-Clone the repository: git clone https://github.com:Shivamitcs/HotelBookingAPI.git
+Clone the repository: git clone https://github.com:/<your-username>/HotelBookingAPI.git
 Install dependencies: npm install
 Create a .env file and add the following variables:
 MONGO_URI: the URI for the MongoDB database.
